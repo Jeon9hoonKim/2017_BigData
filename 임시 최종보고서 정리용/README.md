@@ -18,7 +18,7 @@
 
 - 보고서에 적힌 분석과 analysis.ipynb에 적힌 분석이 조금 다릅니다.
 
-analysis가 보고서 이후 추가적인 분석과정도 들어가 있으므로 analysis를 꼭 참고해주시기 바랍니다.
+- analysis가 보고서 이후 추가적인 분석과정도 들어가 있으므로 analysis를 꼭 참고해주시기 바랍니다.
 
 ### 5) Team17_analysis
 
